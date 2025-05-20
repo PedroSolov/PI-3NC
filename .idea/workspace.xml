@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fc3f3fd9-dcfb-4dbf-9e2d-4fd1af658e58" name="Changes" comment="gitignore" />
+    <list default="true" id="fc3f3fd9-dcfb-4dbf-9e2d-4fd1af658e58" name="Changes" comment="Telas adicionadass" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,7 +37,9 @@
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "ToolWindow.Version Control.ShowToolbar": "false",
+    "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
     "last_opened_file_path": "C:/Users/daviz/IdeaProjects/PI-T",
     "node.js.detected.package.eslint": "true",
@@ -68,10 +70,33 @@
       <option name="presentableId" value="Default" />
       <updated>1747351668181</updated>
       <workItem from="1747351669301" duration="360000" />
+      <workItem from="1747709726951" duration="298000" />
     </task>
+    <task id="LOCAL-00001" summary="Telas adicionadas">
+      <option name="closed" value="true" />
+      <created>1747709912928</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1747709912928</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Telas adicionadass">
+      <option name="closed" value="true" />
+      <created>1747709948751</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1747709948751</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Telas adicionadas" />
+    <MESSAGE value="Telas adicionadass" />
+    <option name="LAST_COMMIT_MESSAGE" value="Telas adicionadass" />
   </component>
 </project>
