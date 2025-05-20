@@ -4,37 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="97337fd5-6520-4c53-9ab3-63719871593f" name="Changes" comment="Telas adicionadas" />
+    <list default="true" id="fc3f3fd9-dcfb-4dbf-9e2d-4fd1af658e58" name="Changes" comment="gitignore" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Record" />
-        <option value="Interface" />
-        <option value="Class" />
-        <option value="HTML File" />
-        <option value="CSS File" />
-        <option value="JavaScript File" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
-  &quot;history&quot;: [
-    {
-      &quot;state&quot;: &quot;OPEN&quot;,
-      &quot;author&quot;: &quot;Daviss77&quot;
-    }
-  ],
   &quot;lastFilter&quot;: {
     &quot;state&quot;: &quot;OPEN&quot;,
-    &quot;author&quot;: &quot;Daviss77&quot;
+    &quot;assignee&quot;: &quot;Daviss77&quot;
   }
 }</component>
   <component name="GithubPullRequestsUISettings">{
@@ -44,55 +26,29 @@
   }
 }</component>
   <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 2
+  &quot;associatedIndex&quot;: 3
 }</component>
-  <component name="ProjectId" id="2wA47GYOBrbPreUSRP9emb0MpVR" />
+  <component name="ProjectId" id="2x9YHPWw5tZLcByaYLZiBkIeC56" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
-    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
-    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
-    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;Spring Boot.CrudPiApplication.executor&quot;: &quot;Debug&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/daviz/IdeaProjects/PI-T/PI-3NC&quot;,
-    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "ToolWindow.Version Control.ShowToolbar": "false",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/daviz/IdeaProjects/PI-T",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
-  <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\daviz\IdeaProjects\PI-T\PI-3NC\crudPI\src\main\resources\static\views\templates" />
-      <recent name="C:\Users\daviz\IdeaProjects\PI-T\PI-3NC\crudPI\src\main\resources\static\views" />
-      <recent name="C:\Users\daviz\IdeaProjects\PI-T\PI-3NC\crudPI\src\main\resources\static\" />
-      <recent name="C:\Users\daviz\IdeaProjects\PI-T\PI-3NC\crudPI\src\main\resources\static" />
-      <recent name="C:\Users\daviz\IdeaProjects\PI-T\PI-3NC\crudPI\src\main\resources\static\css" />
-    </key>
-  </component>
-  <component name="RunManager">
-    <configuration name="CrudPiApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
-      <module name="crudPI" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.crudPI.CrudPiApplication" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-  </component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -101,52 +57,21 @@
       </set>
     </attachedChunks>
   </component>
-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="StructureViewState">
     <option name="selectedTab" value="Logical" />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="97337fd5-6520-4c53-9ab3-63719871593f" name="Changes" comment="" />
-      <created>1745470874296</created>
+      <changelist id="fc3f3fd9-dcfb-4dbf-9e2d-4fd1af658e58" name="Changes" comment="" />
+      <created>1747351668181</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1745470874296</updated>
-      <workItem from="1745470875569" duration="1840000" />
-      <workItem from="1745473657005" duration="2195000" />
-      <workItem from="1745476932473" duration="9042000" />
-      <workItem from="1745524382313" duration="8592000" />
-      <workItem from="1747351708957" duration="248000" />
-      <workItem from="1747352031577" duration="4273000" />
-      <workItem from="1747513098272" duration="6025000" />
-      <workItem from="1747519211766" duration="3156000" />
-      <workItem from="1747705458191" duration="690000" />
+      <updated>1747351668181</updated>
+      <workItem from="1747351669301" duration="360000" />
     </task>
-    <task id="LOCAL-00001" summary="Teste">
-      <option name="closed" value="true" />
-      <created>1745539119198</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1745539119198</updated>
-    </task>
-    <task id="LOCAL-00002" summary="Telas adicionadas">
-      <option name="closed" value="true" />
-      <created>1747705861118</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1747705861118</updated>
-    </task>
-    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="Teste" />
-    <MESSAGE value="Telas adicionadas" />
-    <option name="LAST_COMMIT_MESSAGE" value="Telas adicionadas" />
   </component>
 </project>
