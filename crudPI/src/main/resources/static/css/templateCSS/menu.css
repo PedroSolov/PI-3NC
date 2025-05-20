@@ -1,0 +1,30 @@
+
+nav{
+    background-color: #280540;
+    border: 1px solid black;
+    display: flex;
+    height: 45px;
+    justify-content: space-between;
+    color: whitesmoke;
+}
+.links{
+    margin-top: 9px;
+    width: 580px;
+    margin-right: 2%;
+}
+
+.links  a{
+    color: #F5E85D;
+    margin: 5%;
+    padding: 8px;
+    font-family: "Bebas Neue", sans-serif;
+    font-size: 22px;
+}
+
+
+.links> a:hover{
+    border-radius: 10%;
+    transition: 1s;
+    background-color: #d8adf447;
+
+}

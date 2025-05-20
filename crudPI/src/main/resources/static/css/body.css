@@ -1,0 +1,103 @@
+@import url('https://fonts.googleapis.com/css2?family=Acme&family=Boldonse&family=Caveat:wght@400..700&family=Concert+One&family=Fira+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Fjalla+One&family=PT+Serif:ital,wght@0,400;0,700;1,400;1,700&family=Passion+One:wght@400;700;900&family=Public+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+
+
+
+*{
+    /*border: 1px solid black;*/
+    text-align: center;
+    box-sizing: border-box;
+    max-width: 100%;
+
+}
+html, body {
+    background-color: #2A2040;
+    margin: 0px;
+    max-width: auto;
+    overflow-x: hidden;
+}
+.titles{
+    font-family: "Boldonse", system-ui;
+    color: #F5E85D;
+    font-family: "Bebas Neue", sans-serif;
+    text-shadow: 4px 4px 1px black;
+    letter-spacing: 6px;
+    margin: auto;
+    font-size:54px;
+
+}
+
+#search{
+    position: relative;
+    display: inline-block;
+}
+
+.child{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: auto;
+    margin-top: 20px;
+    width: 740px;
+}
+#searchParty{
+    width: 600px;
+    margin: 10px 30px;
+    height: 40px;
+    border-radius: 15px ;
+    padding-left: 40px; /* Espaço para a imagem */
+
+}
+
+/*IMAGENS*/
+img[alt="lupa"]{
+    width: 35px;
+    position: absolute;
+    left: 18%; /* Ajusta a posição da imagem */
+    top: 50%;
+    transform: translateY(-50%);
+    width: 30px; /* Tamanho da imagem */
+    pointer-events: none;
+}
+img[alt="Icone de clicar"]{
+    width: 20px;
+}
+
+#search  button {
+    background-color: #a991dc;
+    color: #F5E85D;
+    text-shadow: 1px 1px black;
+    font-size: 18px;
+    font-family: "Bebas Neue", sans-serif;
+    letter-spacing: 3px;
+    transform: translateY(-50%);
+    margin: 10px 7px;
+    border: 2px solid black;
+    border-radius: 8px;
+    padding: 5px;
+}
+#search button:hover{
+    cursor: pointer;
+    color: rgba(38, 255, 0, 0.741);
+    text-shadow: 1px 1px black;
+    background-color:#d8caf7 ;
+}
+
+#search button.selecionado{
+    background-color: rgb(144, 237, 3);
+    color: black;
+    text-shadow:2px 2px 2px whitesmoke;
+}
+
+#search button.limpar.selecionado{
+    background-color: red;
+    color: whitesmoke;
+    text-shadow: 2px 2px black;
+}
+
+#map{
+    width: 750px;
+    height: 405px;
+    border: 3px solid black;
+    border-radius: 10px;
+    margin:auto;
+}

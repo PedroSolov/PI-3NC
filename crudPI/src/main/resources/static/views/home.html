@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="pt-br" xmlns:th="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Home</title>
+    <link rel="stylesheet" href="/css/body.css">
+    <link rel="stylesheet" href="/css/results.css">
+</head>
+<body>
+<h2 class="titles">Drink City</h2>
+<div id="search">
+    <div class="child">
+        <button onclick="buscarPorCategoria('Adega')">Adegas</button>
+        <button onclick="buscarPorCategoria('Pagodes')">Pagodes</button>
+        <button onclick="buscarPorCategoria('Barzinhos')">Barzinhos</button>
+        <button onclick="buscarPorCategoria('Eventos')">Eventos</button>
+        <button class="limpar" onclick="limparResultados()">Limpar</button>
+    </div>
+</div>
+<div id="map">
+</div>
+
+<div id="resultados" style="margin-top: 20px;"></div>
+
+<script src="/js/buttons.js"></script>
+</body>
+</html>
